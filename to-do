@@ -1,0 +1,12 @@
+- refactor shell.c
+- split files with more than 5 functions
+- update return/exit values
+- task 10 - cd
+
+done:
+- Add an author's file
+- add proper README.md
+- correct output when piping commands into shell
+- update error messages
+- correct error message for invalid arguments to valid commands
+- handle tabs in input

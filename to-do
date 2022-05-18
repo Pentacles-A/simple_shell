@@ -1,0 +1,12 @@
+- refactor shell.c**
+- split files with more than 5 functions*
+- update error messages***
+- update return/exit values*
+- add proper README.md
+- Add an author's file
+
+- handle tabs in input
+- correct output when piping commands into shell
+- correct error message for invalid arguments to valid commands
+
+task 10 - cd
